@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **diana-ngo/diana-ngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,6 +26,3 @@
 ## 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/diana-ngo)
-
-## 💫 Fun fact
-- I love traveling, with Japan being one of my favorite destinations. I've been there 10+ times, so if you need any recommendations let me know! 🍜
