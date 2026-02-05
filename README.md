@@ -10,8 +10,9 @@
 - ⚡ Fun fact: ...
 -->
 
-# Hey, I'm Diana! 👋
+## Hey, I'm Diana! 👋
 
+I'm a full stack software engineer building practical, user-centered web applications. I work across the stack, owning features end-to-end and shipping reliable products with real-world impact. My background in nursing has shaped how I build software, with a thoughtful, collaborative, and user-first approach.
 
 ## 🛠️ Tech Stack
 
